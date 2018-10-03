@@ -22,3 +22,14 @@ Dependencies: Python 2.7, scikit-learn, pandas, numpy.
 7. JPhysio05review_olfactory.xlsx: Original data collected from wet-bench experiment for RGC responses with olfactory signal.
 
 8. RGC_responses.csv: sample file for training MLP classifier.
+
+If you find this work useful in your research and publication, please cite our work:
+
+@article{banerjee2018extreme,
+  title={An Extreme Value Theory Model of Cross-Modal Sensory Information Integration in Modulation of Vertebrate Visual System Functions},
+  author={Banerjee, Sreya and Scheirer, Walter J and Li, Lei},
+  journal={bioRxiv},
+  pages={423038},
+  year={2018},
+  publisher={Cold Spring Harbor Laboratory}
+}
